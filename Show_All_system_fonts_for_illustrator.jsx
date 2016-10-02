@@ -78,7 +78,7 @@ var NoPage = documents.length;
 
 	 
 	
-	alert("You have " + app.textFonts.length +" fonts. " + "\n" + "© 2007-2016 QassimHaider. \nall rights reserved. \n qassim@qtypography.com");
+	alert("You have " + app.textFonts.length +" fonts. " + "\n" + "Â© 2007-2016 QassimHaider. \nall rights reserved. \nqassim@qtypography.com");
 	
 	
 	
